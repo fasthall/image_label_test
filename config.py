@@ -1,4 +1,0 @@
-AWS_KEY_ID = ''
-AWS_ACCESS_LEY = ''
-AWS_REGION = ''
-S3_BUCKET = ''
